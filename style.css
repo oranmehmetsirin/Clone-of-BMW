@@ -1,0 +1,70 @@
+body{
+    background-color: rgba(125, 125, 125, .25);
+}
+.card{
+    box-shadow: rgba(75, 75, 75, 0.0625) 3.6875px 3.6875px 3.6875px 3.6875px;
+}
+nav{
+    font-weight: bold;
+}
+.m{
+    margin: .625rem 2.5rem; 
+}
+.container-fluid img:hover{
+    scale: 1.025;
+    transition: .375s ease;
+    cursor: pointer;
+}
+.badge{
+    scale: 1.125;
+}
+.navbar-text{
+    margin-right: 2.5rem;
+    margin-left: 7.5px;
+}
+.card img:hover{
+    scale: 1.025;
+    transition: .375s ease;
+    cursor: pointer;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.new{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 25rem;
+    box-shadow: rgba(75, 75, 75, 0.0625) 3.6875px 3.6875px 3.6875px 3.6875px;
+}
+.new label{
+    font-size: 18.75px;
+    font-weight: 500;
+}
+.reviews{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.reviews .card h5{
+    font-size: 12.5px;
+}
+.customer-service{
+    box-shadow: rgba(75, 75, 75, 0.0625) 3.6875px 3.6875px 3.6875px 3.6875px;
+}
+.add{
+    margin-top: 50px;
+    display:flex;
+    flex-wrap: wrap;
+}
+.card-add{
+    margin: 25px auto;
+}
+.card-add img[
+    he
+]
+.customer{
+    max-height: 250px !important;
+}
