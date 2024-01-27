@@ -4,4 +4,4 @@ It is a web front interface created by keeping the graphics of a BMW website and
 
 You can see the screenshot of the project below.
 
-![Animation](https://github.com/oranmehmetsirin/Clone-of-BMW/blob/main/gif.gif?raw=true)
+![Animation](https://github.com/oranmehmetsirin/Clone-of-BMW/blob/main/gif.gif?raw=true) 
